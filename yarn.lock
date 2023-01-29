@@ -6168,10 +6168,10 @@ ts-jest@29.0.3:
     semver "7.x"
     yargs-parser "^21.0.1"
 
-ts-loader@9.4.1:
-  version "9.4.1"
-  resolved "https://registry.npmjs.org/ts-loader/-/ts-loader-9.4.1.tgz"
-  integrity sha512-384TYAqGs70rn9F0VBnh6BPTfhga7yFNdC5gXbQpDrBj9/KsT4iRkGqKXhziofHOlE2j6YEaiTYVGKKvPhGWvw==
+ts-loader@9.4.2:
+  version "9.4.2"
+  resolved "https://registry.yarnpkg.com/ts-loader/-/ts-loader-9.4.2.tgz#80a45eee92dd5170b900b3d00abcfa14949aeb78"
+  integrity sha512-OmlC4WVmFv5I0PpaxYb+qGeGOdm5giHU7HwDDUjw59emP2UYMHy9fFSDcYgSNoH8sXcj4hGCSEhlDZ9ULeDraA==
   dependencies:
     chalk "^4.1.0"
     enhanced-resolve "^5.0.0"
@@ -6303,11 +6303,6 @@ typeorm@0.3.10:
     uuid "^8.3.2"
     xml2js "^0.4.23"
     yargs "^17.3.1"
-
-typescript@4.8.4:
-  version "4.8.4"
-  resolved "https://registry.npmjs.org/typescript/-/typescript-4.8.4.tgz"
-  integrity sha512-QCh+85mCy+h0IGff8r5XWzOVSbBO+KfeYrMQh7NJ58QujwcE22u+NUSmUxqF+un70P9GXKxa2HCNiTTMJknyjQ==
 
 typescript@4.9.4:
   version "4.9.4"
