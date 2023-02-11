@@ -1,0 +1,18 @@
+{
+  "extensionPack": [
+    "streetsidesoftware.code-spell-checker",
+    "donjayamanne.githistory",
+    "eamodio.gitlens",
+    "visualstudioexptteam.vscodeintellicode",
+    "visualstudioexptteam.intellicode-api-usage-examples"
+  ],
+  "recommendations": [
+    "ms-azuretools.vscode-docker",
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "pkief.material-icon-theme",
+    "redhat.vscode-yaml",
+    "foxundermoon.shell-format",
+    "steoates.autoimport"
+  ]
+}
