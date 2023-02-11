@@ -25,18 +25,18 @@
     "test:e2e:cov": "NODE_ENV=test npx jest --config ./jest-e2e.json --coverage"
   },
   "dependencies": {
-    "@nestjs/common": "9.2.1",
-    "@nestjs/config": "2.2.0",
-    "@nestjs/core": "9.2.1",
-    "@nestjs/jwt": "10.0.1",
+    "@nestjs/common": "9.3.8",
+    "@nestjs/config": "2.3.1",
+    "@nestjs/core": "9.3.8",
+    "@nestjs/jwt": "10.0.2",
     "@nestjs/mongoose": "9.2.1",
-    "@nestjs/passport": "^9.0.0",
-    "@nestjs/platform-express": "9.2.1",
-    "@nestjs/swagger": "6.1.4",
+    "@nestjs/passport": "9.0.3",
+    "@nestjs/platform-express": "9.3.8",
+    "@nestjs/swagger": "6.2.1",
     "@nestjs/typeorm": "9.0.1",
     "dayjs": "1.11.7",
     "merge-yaml": "^1.1.0",
-    "mongoose": "6.9.0",
+    "mongoose": "6.9.1",
     "mongoose-paginate": "^5.0.3",
     "passport": "^0.6.0",
     "passport-jwt": "4.0.1",
@@ -46,7 +46,7 @@
     "rimraf": "4.1.2",
     "rxjs": "7.8.0",
     "swagger-ui-express": "4.6.0",
-    "typeorm": "0.3.11"
+    "typeorm": "0.3.12"
   },
   "devDependencies": {
     "@nestjs/cli": "9.2.0",
